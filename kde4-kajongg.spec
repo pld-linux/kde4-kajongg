@@ -4,12 +4,12 @@
 
 Summary:	kajongg
 Name:		kde4-kajongg
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	4de09fe78573c79337c32c81cb91762f
+# Source0-md5:	3866e5740ce5cc2c478f6e2f5b58ef58
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
